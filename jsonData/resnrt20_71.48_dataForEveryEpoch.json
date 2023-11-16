@@ -1,0 +1,1441 @@
+[[{
+    "test_acc": 14.63,
+    "test_acc_top5": 41.12,
+    "best_acc": 14.63,
+    "epoch": 1,
+    "decay_value": 1
+}],[{
+    "test_acc": 22.57,
+    "test_acc_top5": 54.92,
+    "best_acc": 22.57,
+    "epoch": 2,
+    "decay_value": 1
+}],[{
+    "test_acc": 30.3,
+    "test_acc_top5": 62.39,
+    "best_acc": 30.3,
+    "epoch": 3,
+    "decay_value": 1
+}],[{
+    "test_acc": 37.48,
+    "test_acc_top5": 71.15,
+    "best_acc": 37.48,
+    "epoch": 4,
+    "decay_value": 1
+}],[{
+    "test_acc": 39.0,
+    "test_acc_top5": 72.63,
+    "best_acc": 39.0,
+    "epoch": 5,
+    "decay_value": 1
+}],[{
+    "test_acc": 37.48,
+    "test_acc_top5": 70.1,
+    "best_acc": 39.0,
+    "epoch": 6,
+    "decay_value": 1
+}],[{
+    "test_acc": 40.86,
+    "test_acc_top5": 73.19,
+    "best_acc": 40.86,
+    "epoch": 7,
+    "decay_value": 1
+}],[{
+    "test_acc": 44.54,
+    "test_acc_top5": 77.27,
+    "best_acc": 44.54,
+    "epoch": 8,
+    "decay_value": 1
+}],[{
+    "test_acc": 43.32,
+    "test_acc_top5": 74.47,
+    "best_acc": 44.54,
+    "epoch": 9,
+    "decay_value": 1
+}],[{
+    "test_acc": 45.8,
+    "test_acc_top5": 77.5,
+    "best_acc": 45.8,
+    "epoch": 10,
+    "decay_value": 1
+}],[{
+    "test_acc": 45.59,
+    "test_acc_top5": 76.56,
+    "best_acc": 45.8,
+    "epoch": 11,
+    "decay_value": 1
+}],[{
+    "test_acc": 46.78,
+    "test_acc_top5": 78.01,
+    "best_acc": 46.78,
+    "epoch": 12,
+    "decay_value": 1
+}],[{
+    "test_acc": 52.06,
+    "test_acc_top5": 81.81,
+    "best_acc": 52.06,
+    "epoch": 13,
+    "decay_value": 1
+}],[{
+    "test_acc": 52.38,
+    "test_acc_top5": 81.81,
+    "best_acc": 52.38,
+    "epoch": 14,
+    "decay_value": 1
+}],[{
+    "test_acc": 52.49,
+    "test_acc_top5": 81.64,
+    "best_acc": 52.49,
+    "epoch": 15,
+    "decay_value": 1
+}],[{
+    "test_acc": 51.73,
+    "test_acc_top5": 80.16,
+    "best_acc": 52.49,
+    "epoch": 16,
+    "decay_value": 1
+}],[{
+    "test_acc": 51.87,
+    "test_acc_top5": 82.46,
+    "best_acc": 52.49,
+    "epoch": 17,
+    "decay_value": 1
+}],[{
+    "test_acc": 55.89,
+    "test_acc_top5": 84.67,
+    "best_acc": 55.89,
+    "epoch": 18,
+    "decay_value": 1
+}],[{
+    "test_acc": 53.12,
+    "test_acc_top5": 81.94,
+    "best_acc": 55.89,
+    "epoch": 19,
+    "decay_value": 1
+}],[{
+    "test_acc": 53.37,
+    "test_acc_top5": 82.0,
+    "best_acc": 55.89,
+    "epoch": 20,
+    "decay_value": 1
+}],[{
+    "test_acc": 44.3,
+    "test_acc_top5": 76.26,
+    "best_acc": 55.89,
+    "epoch": 21,
+    "decay_value": 1
+}],[{
+    "test_acc": 54.36,
+    "test_acc_top5": 83.5,
+    "best_acc": 55.89,
+    "epoch": 22,
+    "decay_value": 1
+}],[{
+    "test_acc": 54.37,
+    "test_acc_top5": 83.1,
+    "best_acc": 55.89,
+    "epoch": 23,
+    "decay_value": 1
+}],[{
+    "test_acc": 54.62,
+    "test_acc_top5": 83.43,
+    "best_acc": 55.89,
+    "epoch": 24,
+    "decay_value": 1
+}],[{
+    "test_acc": 55.45,
+    "test_acc_top5": 84.06,
+    "best_acc": 55.89,
+    "epoch": 25,
+    "decay_value": 1
+}],[{
+    "test_acc": 53.79,
+    "test_acc_top5": 82.98,
+    "best_acc": 55.89,
+    "epoch": 26,
+    "decay_value": 1
+}],[{
+    "test_acc": 54.56,
+    "test_acc_top5": 82.53,
+    "best_acc": 55.89,
+    "epoch": 27,
+    "decay_value": 1
+}],[{
+    "test_acc": 55.31,
+    "test_acc_top5": 84.16,
+    "best_acc": 55.89,
+    "epoch": 28,
+    "decay_value": 1
+}],[{
+    "test_acc": 56.46,
+    "test_acc_top5": 84.82,
+    "best_acc": 56.46,
+    "epoch": 29,
+    "decay_value": 1
+}],[{
+    "test_acc": 53.42,
+    "test_acc_top5": 82.58,
+    "best_acc": 56.46,
+    "epoch": 30,
+    "decay_value": 1
+}],[{
+    "test_acc": 56.25,
+    "test_acc_top5": 84.35,
+    "best_acc": 56.46,
+    "epoch": 31,
+    "decay_value": 1
+}],[{
+    "test_acc": 55.93,
+    "test_acc_top5": 84.86,
+    "best_acc": 56.46,
+    "epoch": 32,
+    "decay_value": 1
+}],[{
+    "test_acc": 54.16,
+    "test_acc_top5": 82.56,
+    "best_acc": 56.46,
+    "epoch": 33,
+    "decay_value": 1
+}],[{
+    "test_acc": 54.83,
+    "test_acc_top5": 83.23,
+    "best_acc": 56.46,
+    "epoch": 34,
+    "decay_value": 1
+}],[{
+    "test_acc": 52.21,
+    "test_acc_top5": 81.22,
+    "best_acc": 56.46,
+    "epoch": 35,
+    "decay_value": 1
+}],[{
+    "test_acc": 52.69,
+    "test_acc_top5": 83.03,
+    "best_acc": 56.46,
+    "epoch": 36,
+    "decay_value": 1
+}],[{
+    "test_acc": 56.07,
+    "test_acc_top5": 84.44,
+    "best_acc": 56.46,
+    "epoch": 37,
+    "decay_value": 1
+}],[{
+    "test_acc": 57.36,
+    "test_acc_top5": 85.58,
+    "best_acc": 57.36,
+    "epoch": 38,
+    "decay_value": 1
+}],[{
+    "test_acc": 55.89,
+    "test_acc_top5": 84.38,
+    "best_acc": 57.36,
+    "epoch": 39,
+    "decay_value": 1
+}],[{
+    "test_acc": 57.69,
+    "test_acc_top5": 85.91,
+    "best_acc": 57.69,
+    "epoch": 40,
+    "decay_value": 1
+}],[{
+    "test_acc": 53.31,
+    "test_acc_top5": 82.89,
+    "best_acc": 57.69,
+    "epoch": 41,
+    "decay_value": 1
+}],[{
+    "test_acc": 54.14,
+    "test_acc_top5": 82.35,
+    "best_acc": 57.69,
+    "epoch": 42,
+    "decay_value": 1
+}],[{
+    "test_acc": 56.66,
+    "test_acc_top5": 84.8,
+    "best_acc": 57.69,
+    "epoch": 43,
+    "decay_value": 1
+}],[{
+    "test_acc": 50.23,
+    "test_acc_top5": 79.42,
+    "best_acc": 57.69,
+    "epoch": 44,
+    "decay_value": 1
+}],[{
+    "test_acc": 57.0,
+    "test_acc_top5": 85.46,
+    "best_acc": 57.69,
+    "epoch": 45,
+    "decay_value": 1
+}],[{
+    "test_acc": 53.83,
+    "test_acc_top5": 82.81,
+    "best_acc": 57.69,
+    "epoch": 46,
+    "decay_value": 1
+}],[{
+    "test_acc": 55.19,
+    "test_acc_top5": 84.17,
+    "best_acc": 57.69,
+    "epoch": 47,
+    "decay_value": 1
+}],[{
+    "test_acc": 58.53,
+    "test_acc_top5": 86.16,
+    "best_acc": 58.53,
+    "epoch": 48,
+    "decay_value": 1
+}],[{
+    "test_acc": 53.29,
+    "test_acc_top5": 82.58,
+    "best_acc": 58.53,
+    "epoch": 49,
+    "decay_value": 1
+}],[{
+    "test_acc": 56.84,
+    "test_acc_top5": 83.82,
+    "best_acc": 58.53,
+    "epoch": 50,
+    "decay_value": 1
+}],[{
+    "test_acc": 57.32,
+    "test_acc_top5": 84.91,
+    "best_acc": 58.53,
+    "epoch": 51,
+    "decay_value": 1
+}],[{
+    "test_acc": 55.64,
+    "test_acc_top5": 85.03,
+    "best_acc": 58.53,
+    "epoch": 52,
+    "decay_value": 1
+}],[{
+    "test_acc": 55.59,
+    "test_acc_top5": 83.8,
+    "best_acc": 58.53,
+    "epoch": 53,
+    "decay_value": 1
+}],[{
+    "test_acc": 55.04,
+    "test_acc_top5": 83.37,
+    "best_acc": 58.53,
+    "epoch": 54,
+    "decay_value": 1
+}],[{
+    "test_acc": 57.38,
+    "test_acc_top5": 85.22,
+    "best_acc": 58.53,
+    "epoch": 55,
+    "decay_value": 1
+}],[{
+    "test_acc": 50.0,
+    "test_acc_top5": 78.75,
+    "best_acc": 58.53,
+    "epoch": 56,
+    "decay_value": 1
+}],[{
+    "test_acc": 57.04,
+    "test_acc_top5": 85.03,
+    "best_acc": 58.53,
+    "epoch": 57,
+    "decay_value": 1
+}],[{
+    "test_acc": 56.39,
+    "test_acc_top5": 84.02,
+    "best_acc": 58.53,
+    "epoch": 58,
+    "decay_value": 1
+}],[{
+    "test_acc": 56.79,
+    "test_acc_top5": 84.34,
+    "best_acc": 58.53,
+    "epoch": 59,
+    "decay_value": 1
+}],[{
+    "test_acc": 56.66,
+    "test_acc_top5": 85.25,
+    "best_acc": 58.53,
+    "epoch": 60,
+    "decay_value": 1
+}],[{
+    "test_acc": 57.24,
+    "test_acc_top5": 85.65,
+    "best_acc": 58.53,
+    "epoch": 61,
+    "decay_value": 1
+}],[{
+    "test_acc": 56.51,
+    "test_acc_top5": 85.09,
+    "best_acc": 58.53,
+    "epoch": 62,
+    "decay_value": 1
+}],[{
+    "test_acc": 55.28,
+    "test_acc_top5": 82.99,
+    "best_acc": 58.53,
+    "epoch": 63,
+    "decay_value": 1
+}],[{
+    "test_acc": 56.73,
+    "test_acc_top5": 84.31,
+    "best_acc": 58.53,
+    "epoch": 64,
+    "decay_value": 1
+}],[{
+    "test_acc": 55.76,
+    "test_acc_top5": 83.38,
+    "best_acc": 58.53,
+    "epoch": 65,
+    "decay_value": 1
+}],[{
+    "test_acc": 57.2,
+    "test_acc_top5": 85.8,
+    "best_acc": 58.53,
+    "epoch": 66,
+    "decay_value": 1
+}],[{
+    "test_acc": 59.61,
+    "test_acc_top5": 86.71,
+    "best_acc": 59.61,
+    "epoch": 67,
+    "decay_value": 1
+}],[{
+    "test_acc": 58.05,
+    "test_acc_top5": 85.99,
+    "best_acc": 59.61,
+    "epoch": 68,
+    "decay_value": 1
+}],[{
+    "test_acc": 57.08,
+    "test_acc_top5": 85.39,
+    "best_acc": 59.61,
+    "epoch": 69,
+    "decay_value": 1
+}],[{
+    "test_acc": 56.09,
+    "test_acc_top5": 84.74,
+    "best_acc": 59.61,
+    "epoch": 70,
+    "decay_value": 1
+}],[{
+    "test_acc": 58.1,
+    "test_acc_top5": 85.75,
+    "best_acc": 59.61,
+    "epoch": 71,
+    "decay_value": 1
+}],[{
+    "test_acc": 55.53,
+    "test_acc_top5": 83.7,
+    "best_acc": 59.61,
+    "epoch": 72,
+    "decay_value": 1
+}],[{
+    "test_acc": 58.51,
+    "test_acc_top5": 85.51,
+    "best_acc": 59.61,
+    "epoch": 73,
+    "decay_value": 1
+}],[{
+    "test_acc": 59.1,
+    "test_acc_top5": 86.77,
+    "best_acc": 59.61,
+    "epoch": 74,
+    "decay_value": 1
+}],[{
+    "test_acc": 57.07,
+    "test_acc_top5": 85.43,
+    "best_acc": 59.61,
+    "epoch": 75,
+    "decay_value": 1
+}],[{
+    "test_acc": 55.56,
+    "test_acc_top5": 83.48,
+    "best_acc": 59.61,
+    "epoch": 76,
+    "decay_value": 1
+}],[{
+    "test_acc": 54.61,
+    "test_acc_top5": 82.46,
+    "best_acc": 59.61,
+    "epoch": 77,
+    "decay_value": 1
+}],[{
+    "test_acc": 57.4,
+    "test_acc_top5": 84.68,
+    "best_acc": 59.61,
+    "epoch": 78,
+    "decay_value": 1
+}],[{
+    "test_acc": 59.29,
+    "test_acc_top5": 87.03,
+    "best_acc": 59.61,
+    "epoch": 79,
+    "decay_value": 1
+}],[{
+    "test_acc": 58.63,
+    "test_acc_top5": 86.72,
+    "best_acc": 59.61,
+    "epoch": 80,
+    "decay_value": 1
+}],[{
+    "test_acc": 58.71,
+    "test_acc_top5": 85.73,
+    "best_acc": 59.61,
+    "epoch": 81,
+    "decay_value": 1
+}],[{
+    "test_acc": 54.54,
+    "test_acc_top5": 82.38,
+    "best_acc": 59.61,
+    "epoch": 82,
+    "decay_value": 1
+}],[{
+    "test_acc": 56.0,
+    "test_acc_top5": 83.85,
+    "best_acc": 59.61,
+    "epoch": 83,
+    "decay_value": 1
+}],[{
+    "test_acc": 58.27,
+    "test_acc_top5": 84.78,
+    "best_acc": 59.61,
+    "epoch": 84,
+    "decay_value": 1
+}],[{
+    "test_acc": 56.7,
+    "test_acc_top5": 84.16,
+    "best_acc": 59.61,
+    "epoch": 85,
+    "decay_value": 1
+}],[{
+    "test_acc": 54.4,
+    "test_acc_top5": 83.36,
+    "best_acc": 59.61,
+    "epoch": 86,
+    "decay_value": 1
+}],[{
+    "test_acc": 55.03,
+    "test_acc_top5": 82.83,
+    "best_acc": 59.61,
+    "epoch": 87,
+    "decay_value": 1
+}],[{
+    "test_acc": 56.83,
+    "test_acc_top5": 84.81,
+    "best_acc": 59.61,
+    "epoch": 88,
+    "decay_value": 1
+}],[{
+    "test_acc": 53.54,
+    "test_acc_top5": 82.11,
+    "best_acc": 59.61,
+    "epoch": 89,
+    "decay_value": 1
+}],[{
+    "test_acc": 58.33,
+    "test_acc_top5": 86.39,
+    "best_acc": 59.61,
+    "epoch": 90,
+    "decay_value": 1
+}],[{
+    "test_acc": 53.47,
+    "test_acc_top5": 83.26,
+    "best_acc": 59.61,
+    "epoch": 91,
+    "decay_value": 1
+}],[{
+    "test_acc": 54.12,
+    "test_acc_top5": 83.79,
+    "best_acc": 59.61,
+    "epoch": 92,
+    "decay_value": 1
+}],[{
+    "test_acc": 57.4,
+    "test_acc_top5": 86.02,
+    "best_acc": 59.61,
+    "epoch": 93,
+    "decay_value": 1
+}],[{
+    "test_acc": 53.04,
+    "test_acc_top5": 81.82,
+    "best_acc": 59.61,
+    "epoch": 94,
+    "decay_value": 1
+}],[{
+    "test_acc": 59.56,
+    "test_acc_top5": 86.97,
+    "best_acc": 59.61,
+    "epoch": 95,
+    "decay_value": 1
+}],[{
+    "test_acc": 55.96,
+    "test_acc_top5": 84.55,
+    "best_acc": 59.61,
+    "epoch": 96,
+    "decay_value": 1
+}],[{
+    "test_acc": 58.48,
+    "test_acc_top5": 86.47,
+    "best_acc": 59.61,
+    "epoch": 97,
+    "decay_value": 1
+}],[{
+    "test_acc": 57.73,
+    "test_acc_top5": 85.8,
+    "best_acc": 59.61,
+    "epoch": 98,
+    "decay_value": 1
+}],[{
+    "test_acc": 56.14,
+    "test_acc_top5": 83.72,
+    "best_acc": 59.61,
+    "epoch": 99,
+    "decay_value": 1
+}],[{
+    "test_acc": 56.65,
+    "test_acc_top5": 84.11,
+    "best_acc": 59.61,
+    "epoch": 100,
+    "decay_value": 1
+}],[{
+    "test_acc": 54.8,
+    "test_acc_top5": 82.39,
+    "best_acc": 59.61,
+    "epoch": 101,
+    "decay_value": 1
+}],[{
+    "test_acc": 57.48,
+    "test_acc_top5": 85.29,
+    "best_acc": 59.61,
+    "epoch": 102,
+    "decay_value": 1
+}],[{
+    "test_acc": 56.22,
+    "test_acc_top5": 85.11,
+    "best_acc": 59.61,
+    "epoch": 103,
+    "decay_value": 1
+}],[{
+    "test_acc": 57.71,
+    "test_acc_top5": 85.03,
+    "best_acc": 59.61,
+    "epoch": 104,
+    "decay_value": 1
+}],[{
+    "test_acc": 55.2,
+    "test_acc_top5": 83.02,
+    "best_acc": 59.61,
+    "epoch": 105,
+    "decay_value": 1
+}],[{
+    "test_acc": 59.51,
+    "test_acc_top5": 86.73,
+    "best_acc": 59.61,
+    "epoch": 106,
+    "decay_value": 1
+}],[{
+    "test_acc": 59.98,
+    "test_acc_top5": 86.72,
+    "best_acc": 59.98,
+    "epoch": 107,
+    "decay_value": 1
+}],[{
+    "test_acc": 56.29,
+    "test_acc_top5": 84.42,
+    "best_acc": 59.98,
+    "epoch": 108,
+    "decay_value": 1
+}],[{
+    "test_acc": 51.79,
+    "test_acc_top5": 81.68,
+    "best_acc": 59.98,
+    "epoch": 109,
+    "decay_value": 1
+}],[{
+    "test_acc": 57.82,
+    "test_acc_top5": 85.88,
+    "best_acc": 59.98,
+    "epoch": 110,
+    "decay_value": 1
+}],[{
+    "test_acc": 57.53,
+    "test_acc_top5": 85.37,
+    "best_acc": 59.98,
+    "epoch": 111,
+    "decay_value": 1
+}],[{
+    "test_acc": 58.38,
+    "test_acc_top5": 85.15,
+    "best_acc": 59.98,
+    "epoch": 112,
+    "decay_value": 1
+}],[{
+    "test_acc": 57.14,
+    "test_acc_top5": 84.63,
+    "best_acc": 59.98,
+    "epoch": 113,
+    "decay_value": 1
+}],[{
+    "test_acc": 58.95,
+    "test_acc_top5": 87.17,
+    "best_acc": 59.98,
+    "epoch": 114,
+    "decay_value": 1
+}],[{
+    "test_acc": 57.13,
+    "test_acc_top5": 85.16,
+    "best_acc": 59.98,
+    "epoch": 115,
+    "decay_value": 1
+}],[{
+    "test_acc": 52.18,
+    "test_acc_top5": 81.39,
+    "best_acc": 59.98,
+    "epoch": 116,
+    "decay_value": 1
+}],[{
+    "test_acc": 59.98,
+    "test_acc_top5": 86.68,
+    "best_acc": 59.98,
+    "epoch": 117,
+    "decay_value": 1
+}],[{
+    "test_acc": 58.63,
+    "test_acc_top5": 86.31,
+    "best_acc": 59.98,
+    "epoch": 118,
+    "decay_value": 1
+}],[{
+    "test_acc": 57.89,
+    "test_acc_top5": 84.92,
+    "best_acc": 59.98,
+    "epoch": 119,
+    "decay_value": 1
+}],[{
+    "test_acc": 57.8,
+    "test_acc_top5": 85.2,
+    "best_acc": 59.98,
+    "epoch": 120,
+    "decay_value": 1
+}],[{
+    "test_acc": 54.58,
+    "test_acc_top5": 82.54,
+    "best_acc": 59.98,
+    "epoch": 121,
+    "decay_value": 1
+}],[{
+    "test_acc": 54.53,
+    "test_acc_top5": 83.1,
+    "best_acc": 59.98,
+    "epoch": 122,
+    "decay_value": 1
+}],[{
+    "test_acc": 56.41,
+    "test_acc_top5": 84.11,
+    "best_acc": 59.98,
+    "epoch": 123,
+    "decay_value": 1
+}],[{
+    "test_acc": 58.17,
+    "test_acc_top5": 85.19,
+    "best_acc": 59.98,
+    "epoch": 124,
+    "decay_value": 1
+}],[{
+    "test_acc": 55.74,
+    "test_acc_top5": 84.54,
+    "best_acc": 59.98,
+    "epoch": 125,
+    "decay_value": 1
+}],[{
+    "test_acc": 58.59,
+    "test_acc_top5": 86.24,
+    "best_acc": 59.98,
+    "epoch": 126,
+    "decay_value": 1
+}],[{
+    "test_acc": 56.89,
+    "test_acc_top5": 85.02,
+    "best_acc": 59.98,
+    "epoch": 127,
+    "decay_value": 1
+}],[{
+    "test_acc": 57.35,
+    "test_acc_top5": 85.27,
+    "best_acc": 59.98,
+    "epoch": 128,
+    "decay_value": 1
+}],[{
+    "test_acc": 56.69,
+    "test_acc_top5": 84.33,
+    "best_acc": 59.98,
+    "epoch": 129,
+    "decay_value": 1
+}],[{
+    "test_acc": 60.18,
+    "test_acc_top5": 87.37,
+    "best_acc": 60.18,
+    "epoch": 130,
+    "decay_value": 1
+}],[{
+    "test_acc": 58.6,
+    "test_acc_top5": 86.45,
+    "best_acc": 60.18,
+    "epoch": 131,
+    "decay_value": 1
+}],[{
+    "test_acc": 57.87,
+    "test_acc_top5": 85.68,
+    "best_acc": 60.18,
+    "epoch": 132,
+    "decay_value": 1
+}],[{
+    "test_acc": 57.44,
+    "test_acc_top5": 85.52,
+    "best_acc": 60.18,
+    "epoch": 133,
+    "decay_value": 1
+}],[{
+    "test_acc": 55.77,
+    "test_acc_top5": 85.17,
+    "best_acc": 60.18,
+    "epoch": 134,
+    "decay_value": 1
+}],[{
+    "test_acc": 58.83,
+    "test_acc_top5": 86.49,
+    "best_acc": 60.18,
+    "epoch": 135,
+    "decay_value": 1
+}],[{
+    "test_acc": 60.04,
+    "test_acc_top5": 87.79,
+    "best_acc": 60.18,
+    "epoch": 136,
+    "decay_value": 1
+}],[{
+    "test_acc": 59.21,
+    "test_acc_top5": 85.27,
+    "best_acc": 60.18,
+    "epoch": 137,
+    "decay_value": 1
+}],[{
+    "test_acc": 59.88,
+    "test_acc_top5": 87.04,
+    "best_acc": 60.18,
+    "epoch": 138,
+    "decay_value": 1
+}],[{
+    "test_acc": 56.75,
+    "test_acc_top5": 84.61,
+    "best_acc": 60.18,
+    "epoch": 139,
+    "decay_value": 1
+}],[{
+    "test_acc": 59.67,
+    "test_acc_top5": 86.63,
+    "best_acc": 60.18,
+    "epoch": 140,
+    "decay_value": 1
+}],[{
+    "test_acc": 59.55,
+    "test_acc_top5": 86.31,
+    "best_acc": 60.18,
+    "epoch": 141,
+    "decay_value": 1
+}],[{
+    "test_acc": 56.75,
+    "test_acc_top5": 84.79,
+    "best_acc": 60.18,
+    "epoch": 142,
+    "decay_value": 1
+}],[{
+    "test_acc": 60.63,
+    "test_acc_top5": 87.86,
+    "best_acc": 60.63,
+    "epoch": 143,
+    "decay_value": 1
+}],[{
+    "test_acc": 56.79,
+    "test_acc_top5": 85.05,
+    "best_acc": 60.63,
+    "epoch": 144,
+    "decay_value": 1
+}],[{
+    "test_acc": 55.75,
+    "test_acc_top5": 85.01,
+    "best_acc": 60.63,
+    "epoch": 145,
+    "decay_value": 1
+}],[{
+    "test_acc": 59.96,
+    "test_acc_top5": 86.4,
+    "best_acc": 60.63,
+    "epoch": 146,
+    "decay_value": 1
+}],[{
+    "test_acc": 57.58,
+    "test_acc_top5": 85.74,
+    "best_acc": 60.63,
+    "epoch": 147,
+    "decay_value": 1
+}],[{
+    "test_acc": 59.32,
+    "test_acc_top5": 86.4,
+    "best_acc": 60.63,
+    "epoch": 148,
+    "decay_value": 1
+}],[{
+    "test_acc": 57.33,
+    "test_acc_top5": 84.96,
+    "best_acc": 60.63,
+    "epoch": 149,
+    "decay_value": 1
+}],[{
+    "test_acc": 58.75,
+    "test_acc_top5": 85.34,
+    "best_acc": 60.63,
+    "epoch": 150,
+    "decay_value": 1
+}],[{
+    "test_acc": 68.68,
+    "test_acc_top5": 91.79,
+    "best_acc": 68.68,
+    "epoch": 151,
+    "decay_value": 1
+}],[{
+    "test_acc": 68.78,
+    "test_acc_top5": 92.0,
+    "best_acc": 68.78,
+    "epoch": 152,
+    "decay_value": 1
+}],[{
+    "test_acc": 69.35,
+    "test_acc_top5": 92.01,
+    "best_acc": 69.35,
+    "epoch": 153,
+    "decay_value": 1
+}],[{
+    "test_acc": 69.51,
+    "test_acc_top5": 92.2,
+    "best_acc": 69.51,
+    "epoch": 154,
+    "decay_value": 1
+}],[{
+    "test_acc": 69.71,
+    "test_acc_top5": 92.3,
+    "best_acc": 69.71,
+    "epoch": 155,
+    "decay_value": 1
+}],[{
+    "test_acc": 69.41,
+    "test_acc_top5": 92.15,
+    "best_acc": 69.71,
+    "epoch": 156,
+    "decay_value": 1
+}],[{
+    "test_acc": 69.7,
+    "test_acc_top5": 92.21,
+    "best_acc": 69.71,
+    "epoch": 157,
+    "decay_value": 1
+}],[{
+    "test_acc": 69.91,
+    "test_acc_top5": 92.36,
+    "best_acc": 69.91,
+    "epoch": 158,
+    "decay_value": 1
+}],[{
+    "test_acc": 70.23,
+    "test_acc_top5": 92.52,
+    "best_acc": 70.23,
+    "epoch": 159,
+    "decay_value": 1
+}],[{
+    "test_acc": 69.8,
+    "test_acc_top5": 92.42,
+    "best_acc": 70.23,
+    "epoch": 160,
+    "decay_value": 1
+}],[{
+    "test_acc": 70.16,
+    "test_acc_top5": 92.16,
+    "best_acc": 70.23,
+    "epoch": 161,
+    "decay_value": 1
+}],[{
+    "test_acc": 70.34,
+    "test_acc_top5": 92.42,
+    "best_acc": 70.34,
+    "epoch": 162,
+    "decay_value": 1
+}],[{
+    "test_acc": 70.19,
+    "test_acc_top5": 92.44,
+    "best_acc": 70.34,
+    "epoch": 163,
+    "decay_value": 1
+}],[{
+    "test_acc": 69.68,
+    "test_acc_top5": 92.14,
+    "best_acc": 70.34,
+    "epoch": 164,
+    "decay_value": 1
+}],[{
+    "test_acc": 70.4,
+    "test_acc_top5": 92.19,
+    "best_acc": 70.4,
+    "epoch": 165,
+    "decay_value": 1
+}],[{
+    "test_acc": 70.1,
+    "test_acc_top5": 92.18,
+    "best_acc": 70.4,
+    "epoch": 166,
+    "decay_value": 1
+}],[{
+    "test_acc": 70.28,
+    "test_acc_top5": 92.32,
+    "best_acc": 70.4,
+    "epoch": 167,
+    "decay_value": 1
+}],[{
+    "test_acc": 70.15,
+    "test_acc_top5": 92.18,
+    "best_acc": 70.4,
+    "epoch": 168,
+    "decay_value": 1
+}],[{
+    "test_acc": 70.19,
+    "test_acc_top5": 92.04,
+    "best_acc": 70.4,
+    "epoch": 169,
+    "decay_value": 1
+}],[{
+    "test_acc": 70.5,
+    "test_acc_top5": 92.1,
+    "best_acc": 70.5,
+    "epoch": 170,
+    "decay_value": 1
+}],[{
+    "test_acc": 70.03,
+    "test_acc_top5": 92.12,
+    "best_acc": 70.5,
+    "epoch": 171,
+    "decay_value": 1
+}],[{
+    "test_acc": 70.08,
+    "test_acc_top5": 92.22,
+    "best_acc": 70.5,
+    "epoch": 172,
+    "decay_value": 1
+}],[{
+    "test_acc": 70.26,
+    "test_acc_top5": 92.24,
+    "best_acc": 70.5,
+    "epoch": 173,
+    "decay_value": 1
+}],[{
+    "test_acc": 69.94,
+    "test_acc_top5": 92.24,
+    "best_acc": 70.5,
+    "epoch": 174,
+    "decay_value": 1
+}],[{
+    "test_acc": 70.39,
+    "test_acc_top5": 92.13,
+    "best_acc": 70.5,
+    "epoch": 175,
+    "decay_value": 1
+}],[{
+    "test_acc": 70.11,
+    "test_acc_top5": 92.31,
+    "best_acc": 70.5,
+    "epoch": 176,
+    "decay_value": 1
+}],[{
+    "test_acc": 70.4,
+    "test_acc_top5": 92.36,
+    "best_acc": 70.5,
+    "epoch": 177,
+    "decay_value": 1
+}],[{
+    "test_acc": 70.42,
+    "test_acc_top5": 92.22,
+    "best_acc": 70.5,
+    "epoch": 178,
+    "decay_value": 1
+}],[{
+    "test_acc": 70.28,
+    "test_acc_top5": 92.44,
+    "best_acc": 70.5,
+    "epoch": 179,
+    "decay_value": 1
+}],[{
+    "test_acc": 70.13,
+    "test_acc_top5": 92.11,
+    "best_acc": 70.5,
+    "epoch": 180,
+    "decay_value": 1
+}],[{
+    "test_acc": 71.14,
+    "test_acc_top5": 92.48,
+    "best_acc": 71.14,
+    "epoch": 181,
+    "decay_value": 1
+}],[{
+    "test_acc": 71.11,
+    "test_acc_top5": 92.56,
+    "best_acc": 71.14,
+    "epoch": 182,
+    "decay_value": 1
+}],[{
+    "test_acc": 71.08,
+    "test_acc_top5": 92.45,
+    "best_acc": 71.14,
+    "epoch": 183,
+    "decay_value": 1
+}],[{
+    "test_acc": 70.85,
+    "test_acc_top5": 92.52,
+    "best_acc": 71.14,
+    "epoch": 184,
+    "decay_value": 1
+}],[{
+    "test_acc": 71.07,
+    "test_acc_top5": 92.52,
+    "best_acc": 71.14,
+    "epoch": 185,
+    "decay_value": 1
+}],[{
+    "test_acc": 71.15,
+    "test_acc_top5": 92.52,
+    "best_acc": 71.15,
+    "epoch": 186,
+    "decay_value": 1
+}],[{
+    "test_acc": 71.45,
+    "test_acc_top5": 92.65,
+    "best_acc": 71.45,
+    "epoch": 187,
+    "decay_value": 1
+}],[{
+    "test_acc": 71.29,
+    "test_acc_top5": 92.51,
+    "best_acc": 71.45,
+    "epoch": 188,
+    "decay_value": 1
+}],[{
+    "test_acc": 71.24,
+    "test_acc_top5": 92.55,
+    "best_acc": 71.45,
+    "epoch": 189,
+    "decay_value": 1
+}],[{
+    "test_acc": 71.01,
+    "test_acc_top5": 92.55,
+    "best_acc": 71.45,
+    "epoch": 190,
+    "decay_value": 1
+}],[{
+    "test_acc": 70.98,
+    "test_acc_top5": 92.56,
+    "best_acc": 71.45,
+    "epoch": 191,
+    "decay_value": 1
+}],[{
+    "test_acc": 71.27,
+    "test_acc_top5": 92.69,
+    "best_acc": 71.45,
+    "epoch": 192,
+    "decay_value": 1
+}],[{
+    "test_acc": 71.15,
+    "test_acc_top5": 92.58,
+    "best_acc": 71.45,
+    "epoch": 193,
+    "decay_value": 1
+}],[{
+    "test_acc": 71.1,
+    "test_acc_top5": 92.55,
+    "best_acc": 71.45,
+    "epoch": 194,
+    "decay_value": 1
+}],[{
+    "test_acc": 71.1,
+    "test_acc_top5": 92.62,
+    "best_acc": 71.45,
+    "epoch": 195,
+    "decay_value": 1
+}],[{
+    "test_acc": 71.34,
+    "test_acc_top5": 92.62,
+    "best_acc": 71.45,
+    "epoch": 196,
+    "decay_value": 1
+}],[{
+    "test_acc": 71.37,
+    "test_acc_top5": 92.61,
+    "best_acc": 71.45,
+    "epoch": 197,
+    "decay_value": 1
+}],[{
+    "test_acc": 71.17,
+    "test_acc_top5": 92.52,
+    "best_acc": 71.45,
+    "epoch": 198,
+    "decay_value": 1
+}],[{
+    "test_acc": 71.2,
+    "test_acc_top5": 92.63,
+    "best_acc": 71.45,
+    "epoch": 199,
+    "decay_value": 1
+}],[{
+    "test_acc": 71.27,
+    "test_acc_top5": 92.52,
+    "best_acc": 71.45,
+    "epoch": 200,
+    "decay_value": 1
+}],[{
+    "test_acc": 71.48,
+    "test_acc_top5": 92.65,
+    "best_acc": 71.48,
+    "epoch": 201,
+    "decay_value": 1
+}],[{
+    "test_acc": 71.24,
+    "test_acc_top5": 92.47,
+    "best_acc": 71.48,
+    "epoch": 202,
+    "decay_value": 1
+}],[{
+    "test_acc": 71.43,
+    "test_acc_top5": 92.5,
+    "best_acc": 71.48,
+    "epoch": 203,
+    "decay_value": 1
+}],[{
+    "test_acc": 71.34,
+    "test_acc_top5": 92.54,
+    "best_acc": 71.48,
+    "epoch": 204,
+    "decay_value": 1
+}],[{
+    "test_acc": 71.28,
+    "test_acc_top5": 92.57,
+    "best_acc": 71.48,
+    "epoch": 205,
+    "decay_value": 1
+}],[{
+    "test_acc": 71.24,
+    "test_acc_top5": 92.38,
+    "best_acc": 71.48,
+    "epoch": 206,
+    "decay_value": 1
+}],[{
+    "test_acc": 71.42,
+    "test_acc_top5": 92.46,
+    "best_acc": 71.48,
+    "epoch": 207,
+    "decay_value": 1
+}],[{
+    "test_acc": 71.25,
+    "test_acc_top5": 92.54,
+    "best_acc": 71.48,
+    "epoch": 208,
+    "decay_value": 1
+}],[{
+    "test_acc": 71.33,
+    "test_acc_top5": 92.62,
+    "best_acc": 71.48,
+    "epoch": 209,
+    "decay_value": 1
+}],[{
+    "test_acc": 71.19,
+    "test_acc_top5": 92.49,
+    "best_acc": 71.48,
+    "epoch": 210,
+    "decay_value": 1
+}],[{
+    "test_acc": 71.31,
+    "test_acc_top5": 92.51,
+    "best_acc": 71.48,
+    "epoch": 211,
+    "decay_value": 1
+}],[{
+    "test_acc": 71.19,
+    "test_acc_top5": 92.59,
+    "best_acc": 71.48,
+    "epoch": 212,
+    "decay_value": 1
+}],[{
+    "test_acc": 71.23,
+    "test_acc_top5": 92.65,
+    "best_acc": 71.48,
+    "epoch": 213,
+    "decay_value": 1
+}],[{
+    "test_acc": 71.2,
+    "test_acc_top5": 92.55,
+    "best_acc": 71.48,
+    "epoch": 214,
+    "decay_value": 1
+}],[{
+    "test_acc": 71.36,
+    "test_acc_top5": 92.49,
+    "best_acc": 71.48,
+    "epoch": 215,
+    "decay_value": 1
+}],[{
+    "test_acc": 71.27,
+    "test_acc_top5": 92.6,
+    "best_acc": 71.48,
+    "epoch": 216,
+    "decay_value": 1
+}],[{
+    "test_acc": 71.18,
+    "test_acc_top5": 92.45,
+    "best_acc": 71.48,
+    "epoch": 217,
+    "decay_value": 1
+}],[{
+    "test_acc": 71.21,
+    "test_acc_top5": 92.59,
+    "best_acc": 71.48,
+    "epoch": 218,
+    "decay_value": 1
+}],[{
+    "test_acc": 71.02,
+    "test_acc_top5": 92.54,
+    "best_acc": 71.48,
+    "epoch": 219,
+    "decay_value": 1
+}],[{
+    "test_acc": 71.2,
+    "test_acc_top5": 92.6,
+    "best_acc": 71.48,
+    "epoch": 220,
+    "decay_value": 1
+}],[{
+    "test_acc": 71.19,
+    "test_acc_top5": 92.56,
+    "best_acc": 71.48,
+    "epoch": 221,
+    "decay_value": 1
+}],[{
+    "test_acc": 71.28,
+    "test_acc_top5": 92.61,
+    "best_acc": 71.48,
+    "epoch": 222,
+    "decay_value": 1
+}],[{
+    "test_acc": 71.17,
+    "test_acc_top5": 92.62,
+    "best_acc": 71.48,
+    "epoch": 223,
+    "decay_value": 1
+}],[{
+    "test_acc": 71.28,
+    "test_acc_top5": 92.44,
+    "best_acc": 71.48,
+    "epoch": 224,
+    "decay_value": 1
+}],[{
+    "test_acc": 71.17,
+    "test_acc_top5": 92.58,
+    "best_acc": 71.48,
+    "epoch": 225,
+    "decay_value": 1
+}],[{
+    "test_acc": 71.17,
+    "test_acc_top5": 92.43,
+    "best_acc": 71.48,
+    "epoch": 226,
+    "decay_value": 1
+}],[{
+    "test_acc": 71.22,
+    "test_acc_top5": 92.53,
+    "best_acc": 71.48,
+    "epoch": 227,
+    "decay_value": 1
+}],[{
+    "test_acc": 71.17,
+    "test_acc_top5": 92.57,
+    "best_acc": 71.48,
+    "epoch": 228,
+    "decay_value": 1
+}],[{
+    "test_acc": 71.05,
+    "test_acc_top5": 92.44,
+    "best_acc": 71.48,
+    "epoch": 229,
+    "decay_value": 1
+}],[{
+    "test_acc": 71.04,
+    "test_acc_top5": 92.6,
+    "best_acc": 71.48,
+    "epoch": 230,
+    "decay_value": 1
+}],[{
+    "test_acc": 71.05,
+    "test_acc_top5": 92.46,
+    "best_acc": 71.48,
+    "epoch": 231,
+    "decay_value": 1
+}],[{
+    "test_acc": 71.29,
+    "test_acc_top5": 92.56,
+    "best_acc": 71.48,
+    "epoch": 232,
+    "decay_value": 1
+}],[{
+    "test_acc": 71.15,
+    "test_acc_top5": 92.51,
+    "best_acc": 71.48,
+    "epoch": 233,
+    "decay_value": 1
+}],[{
+    "test_acc": 71.11,
+    "test_acc_top5": 92.51,
+    "best_acc": 71.48,
+    "epoch": 234,
+    "decay_value": 1
+}],[{
+    "test_acc": 71.27,
+    "test_acc_top5": 92.45,
+    "best_acc": 71.48,
+    "epoch": 235,
+    "decay_value": 1
+}],[{
+    "test_acc": 71.25,
+    "test_acc_top5": 92.5,
+    "best_acc": 71.48,
+    "epoch": 236,
+    "decay_value": 1
+}],[{
+    "test_acc": 71.28,
+    "test_acc_top5": 92.54,
+    "best_acc": 71.48,
+    "epoch": 237,
+    "decay_value": 1
+}],[{
+    "test_acc": 71.19,
+    "test_acc_top5": 92.66,
+    "best_acc": 71.48,
+    "epoch": 238,
+    "decay_value": 1
+}],[{
+    "test_acc": 71.28,
+    "test_acc_top5": 92.6,
+    "best_acc": 71.48,
+    "epoch": 239,
+    "decay_value": 1
+}],[{
+    "test_acc": 71.13,
+    "test_acc_top5": 92.68,
+    "best_acc": 71.48,
+    "epoch": 240,
+    "decay_value": 1
+}]]

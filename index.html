@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <script src="/public/package/d3.min.js" charset="utf-8"></script>
+  <script src="https://cdn.bootcdn.net/ajax/libs/vue/2.6.14/vue.js"></script>
+  
+  <title>实验数据可视化</title>
+  <script type="module" crossorigin src="/assets/index-fa527a33.js"></script>
+  <link rel="stylesheet" href="/assets/index-df09f71c.css">
+</head>
+
+<body>
+  <div id="app">
+    <div>每0.1区间有多少样本: {{showData.arrForEveryOnePercentage}}</div>
+    <div>每0.1区间分类正确的有多少样本: {{showData.arrJustyfyForCorrect}}</div>
+    <div>每0.1区间分类正确的样本所占比例: {{showData.arrForCorrectPercentage}}</div>
+    <div>每个类别分类错误的样本数: {{showData.mistakes}}</div><br />
+    <div>分类错误最多的的样本: {{showData.maxWrongClass}}错误数目: {{showData.maxWrong}}</div>
+    <div>分类错误的样本数合计: {{showData.sum}}</div>
+    <div>
+
+    </div>
+  </div>
+  <select name="sleectElm1" class="pet-select" id="pet-select-test" >
+    <option value="">下拉选择对比测试集数据</option>
+    <option value="baseKD_t[4.0]_resnet20_71.45_cifar100测试集数据.json">baseKD_t[4.0] resnet20 71.25 cifar100测试集
+    </option>
+    <option value="resnet20_DKD_71.9_cifar100测试集数据.json">resnet20_DKD_71.9_cifar100测试集数据</option>
+    <option value="resnet20_71.48_学生网络信息熵蒸馏cifar100测试集数据.json">S 71.48 信息熵蒸馏 resnet20 cifar100 测试集</option>
+    <option value="resnet56教师网络cifar100测试集数据.json">T resnet56 cifar100 测试集</option>
+    <option value="resnet20_信息熵+DKD_72.30_cifar100测试集数据.json">S 72.30 resnet20 信息熵+DKD cifar100 测试集</option>
+  </select>
+  <select name="sleectElm2" class="pet-select" id="pet-select-train" >
+    <option value="">下拉选择对比训练集数据</option>
+    <option value="resnet20_71.90_学生网络_DKD_cifar100训练集数据.json">S DKD resnet20 71.9 学生网络 cifar100 训练集</option>
+    <option value="resnet20_71.48_学生网络信息熵蒸馏cifar100训练集数据.json">S 信息熵 resnet20 71.48 学生网络 cifar100 训练集</option>
+    <option value="resnet56教师网络cifar100训练集数据.json">T resnet56 cifar100 训练集</option>
+  </select>
+  <select name="sleectElm3" class="pet-select" id="pet-select-epoch" >
+    <option value="">下拉选择对比训练日志</option>
+    <option value="DKD_resnrt20_71.9_dataForEveryEpoch.json">DKD resnrt20_71.9每个epoch的数据</option>
+    <option value="resnrt20_71.48_dataForEveryEpoch.json">信息熵resnrt20_71.48每个epoch的数据</option>
+    <option value="baseKD_resnrt20_71.25_dataForEveryEpoch.json">基线训练 resnrt20 温度4 每个epoch的数据</option>
+  </select>
+  <div class="colorBox">
+    <div class="colorBoxItem">resnet56教师网络cifar100训练集数据</div>
+    <div class="colorBoxItem">resnet20_71.48_学生网络信息熵蒸馏cifar100训练集数据</div>
+    <div class="colorBoxItem">resnet20_71.48_学生网络信息熵蒸馏cifar100测试集数据</div>
+    <div class="colorBoxItem">resnet56教师网络cifar100测试集数据.json</div>
+    <div class="colorBoxItem">baseKD_t[4.0]_resnet20_71.45_cifar100测试集数据</div>
+    <div class="colorBoxItem">resnet20_DKD_71.9_cifar100测试集数据</div>
+    <div class="colorBoxItem">resnet20_71.90_学生网络_DKD_cifar100训练集数据</div>
+    <div class="colorBoxItem">resnet20_72.30_学生网络_信息熵+DKD_cifar100测试集数据</div>
+  </div>
+  <!-- <input class="checkBox" type="checkbox" checked='true' onchange="displayMainsvg()"/> -->
+  <div class="lineGraph">
+    <svg id="chart1" class="svgElm litterOne" width="820px" height="400px"></svg>
+    <svg id="chart2" class="svgElm litterOne" width="820px" height="400px"></svg>
+    <svg id="chart3" class="svgElm litterOne" width="820px" height="400px"></svg>
+    <svg id="chart4" class="svgElm litterOne" width="820px" height="400px"></svg>
+    <svg id="chart5" class="svgElm litterOne" width="820px" height="400px"></svg>
+    <svg id="chart6" class="svgElm litterOne" width="820px" height="400px"></svg>
+  </div>
+  <svg id="mainsvg" class="svgElm" width="2540px" height="1850px"></svg>
+  
+</body>
+
+</html>

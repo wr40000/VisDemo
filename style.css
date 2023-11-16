@@ -1,0 +1,149 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  align-content: start;
+  justify-content: start;
+  position: relative;
+}
+#app {
+  display: none;
+}
+.pet-select {
+  width: 230px;
+  height: 20px;
+  position: fixed;
+  transform: scale(1);
+  top: 10px;
+  color: #131313;
+  font-family: Helvetica;
+  font-size: 18px;
+  z-index: 100;
+  background-color: transparent;
+  border: none;
+  /* opacity: 0; */
+  transition: all 0.5s linear;
+}
+/* .pet-select:hover{
+  opacity: 1;
+} */
+#pet-select-train {
+}
+#pet-select-test {
+  left: 240px;
+}
+#pet-select-epoch {
+  left: 480px;
+}
+.checkBox {
+  position: fixed;
+  transform: scale(3);
+  bottom: 20px;
+  right: 20px;
+  z-index: 100;
+}
+.colorBox {
+  opacity: 0;
+  position: fixed;
+  transform: scale(1);
+  top: 200px;
+  right: 0px;
+  width: 500px;
+  /* height: 300px; */
+  background-color: transparent;
+  z-index: 2;
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  justify-content: space-around;
+  color: #000000;
+  transition: all 0.5s linear;
+}
+.colorBox:hover {
+  opacity: 1;
+}
+.colorBoxItem {
+  margin-bottom: 10px;
+  border-radius: 5px;
+  display: flex;
+  align-content: center;
+  justify-content: center;
+}
+
+.colorBox :nth-child(1) {
+  background-color: #FFA500;
+}
+.colorBox :nth-child(2) {
+  background-color: #00FF00;
+}
+.colorBox :nth-child(3) {
+  background-color: #FF0000;
+}
+.colorBox :nth-child(4) {
+  background-color: #0000FF;
+}
+.colorBox :nth-child(5) {
+  background-color: #800080;
+}
+.colorBox :nth-child(6) {
+  background-color: #FFFF00;
+}
+.colorBox :nth-child(7) {
+  background-color: #00FFFF;
+}
+.colorBox :nth-child(8) {
+  background-color: #FFC0CB;
+}
+.colorBox :nth-child(9) {
+  background-color: #FFD700;
+}
+.colorBox :nth-child(10) {
+  background-color: #008080;
+}
+.lineGraph {
+  padding-top: 25px;
+  width: 100%;
+  /* height: 150vh; */
+  margin-top: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  align-content: start;
+  justify-content: space-around;
+  /* flex-direction: column;
+    align-content: center;
+    justify-content: space-around; */
+}
+.svgElm {
+  border-radius: 20px;
+}
+.litterOne {
+  /* background-color: rgb(254, 243, 232); */
+}
+#mainsvg {
+  background-color: #f6f6f7;
+  transform: scale(1);
+  /* display: none; */
+}
+#chart1,
+#chart2,
+#chart3,
+#chart4,
+#chart5,
+#chart6 {
+  /* background-color: #F6F6F7; */
+  background-color: #585555;
+  /* transform: scale(0.7); */
+  /* border: transparent 5px solid; */
+  margin: 5px;
+}
+
+.x-axis {
+  /* fill:red;  */
+}
+.y-axis {
+  /* fill:red; */
+}
